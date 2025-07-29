@@ -1,12 +1,22 @@
 ## Hi there 👋
 
-I'm an Economics undergraduate passionate about using data science and machine learning to understand markets and solve real-world problems.
-I work with Python to analyze time series, perform econometric modeling (EViews & Python), and build ML/DL models for price prediction and automation.
-Currently building real projects in forecasting, economic analysis, and AI-powered Telegram bots.
-I believe in learning by doing — and this GitHub is where I document that journey.
+ connecting economics with data science to uncover insights, solve real-world problems, and build intelligent systems.
 
-🔍 Interests: Data analysis • Econometrics • Deep learning • AI applications in economics
-🧠 Tools: Python, EViews, Scikit-learn, Pandas, TensorFlow/Keras, Matplotlib, Git
+Over the past two years, I've built a solid foundation in statistics, econometrics, and Python programming. I've used tools like EViews and Python for time series analysis, economic forecasting, and regression modeling. Recently, I’ve expanded into machine learning and deep learning, working on real projects like gold price prediction, oil market analysis, and AI-powered Telegram bots.
+
+🔧 I enjoy designing end-to-end data projects — from data cleaning and exploration to modeling, evaluation, and deployment. Whether it's building an ARIMA model to forecast prices or training neural networks for automation, I strive to make my code both functional and meaningful.
+
+📌 My GitHub is where I document my learning, projects, experiments, and tools that I’m building along the way. I believe in learning by doing and in building a portfolio that reflects real progress and curiosit
+
+🧰 Tools & Tech I Use:
+
+Python (Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Statsmodels)
+
+EViews, Excel
+
+Matplotlib, Seaborn, Plotly
+
+Git & GitHub
 
 
 <!--
