@@ -5,14 +5,15 @@ My journey began with statistical analysis and econometrics, but it quickly evol
 
 Through hands-on experience, I’ve developed a strong foundation in time series analysis, economic forecasting, and building ML/DL models. I’ve worked on projects like gold price prediction using ARIMA and deep learning, analyzing oil and dollar market impacts, and creating AI-driven Telegram bots. My goal is to turn ideas into working systems that create value and insight.
 
-📌 What I'm Focused On
+📌 
 I’m currently building projects that connect data science with economics — from econometric models in EViews and Python, to machine learning models deployed in real tools. I’m also preparing to expand my freelance career and contribute to impactful data projects in startups and research.
 
-💡 What I Love
+💡
 I love solving complex, messy problems with code. Whether it’s forecasting economic variables, designing a machine learning pipeline, or automating tasks with bots, I enjoy crafting practical solutions and learning in public.
 I also care deeply about clean, readable code, experiment-driven learning, and understanding the why behind every model or algorithm I use.
 
 🚀 Tools & Technologies
+
 
 🧠 Languages & Frameworks:
 Python · Statsmodels · Scikit-learn · TensorFlow · Keras · EViews · HTML/CSS (basics)
