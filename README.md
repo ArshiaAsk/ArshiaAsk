@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm an Economics undergraduate passionate about using data science and machine learning to understand markets and solve real-world problems.
+I work with Python to analyze time series, perform econometric modeling (EViews & Python), and build ML/DL models for price prediction and automation.
+Currently building real projects in forecasting, economic analysis, and AI-powered Telegram bots.
+I believe in learning by doing — and this GitHub is where I document that journey.
+
+🔍 Interests: Data analysis • Econometrics • Deep learning • AI applications in economics
+🧠 Tools: Python, EViews, Scikit-learn, Pandas, TensorFlow/Keras, Matplotlib, Git
+
+
 <!--
 **ArshiaAsk/ArshiaAsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
